@@ -15,7 +15,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
 ### 📈 GitHub Stats
-![Hussnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussnainahmed&show_icons=true&theme=radical)
+![Hussnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussnain-143&show_icons=true&theme=radical)
 
 ---
 
