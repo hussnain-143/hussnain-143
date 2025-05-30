@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Hussnain Ahmed
 
-<!--
-**hussnain-143/hussnain-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack Developer | WordPress & Laravel Expert
 
-Here are some ideas to get you started:
+- 🔧 I specialize in **Laravel**, **React Native**, and **WordPress development**.
+- 🎯 Passionate about creating efficient, scalable, and user-friendly applications.
+- 📚 Always learning new technologies and improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+
+### 📈 GitHub Stats
+![Hussnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussnainahmed&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/your-link)
+- [Portfolio](https://your-portfolio.com)
+- [Email](mailto:your@email.com)
