@@ -20,7 +20,6 @@ I'm a dedicated Full-Stack Developer with experience in building dynamic and sca
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![React 19](https://img.shields.io/badge/-React_19-61DAFB?logo=react&logoColor=black&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
@@ -36,7 +35,7 @@ I'm a dedicated Full-Stack Developer with experience in building dynamic and sca
 ### 📊 GitHub Stats
 
 ![Hussnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hussnain-143&show_icons=true&theme=radical)
----
+-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussnain-143&layout=compact&theme=radical)
 
 ---
