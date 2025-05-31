@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hussnain Ahmed
 
-## 🚀 Full-Stack Developer | WordPress Expert | UI Enthusiast
+## 🚀 Full-Stack Developer | WordPress Expert
 
 I'm a dedicated Full-Stack Developer with experience in building dynamic and scalable web applications using **React**, **Laravel**, and **WordPress**. I thrive on solving real-world problems through elegant, maintainable code and enjoy collaborating with teams to deliver impactful user experiences.
 
