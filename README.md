@@ -2,13 +2,13 @@
 
 ## 🚀 Full-Stack Developer | WordPress Expert
 
-I'm a dedicated Full-Stack Developer with experience in building dynamic and scalable web applications using **React**, **Laravel**, and **WordPress**. I thrive on solving real-world problems through elegant, maintainable code and enjoy collaborating with teams to deliver impactful user experiences.
+I'm a dedicated Full-Stack Developer with experience in building dynamic and scalable web applications using **Next**, **React**, **Laravel**, and **WordPress**. I thrive on solving real-world problems through elegant, maintainable code and enjoy collaborating with teams to deliver impactful user experiences.
 
 ---
 
 ### 💡 What I Do
 
-- 🖥️ Develop interactive frontend apps using **React**
+- 🖥️ Develop interactive frontend apps using **Next** and **React** 
 - ⚙️ Build secure and scalable backend APIs using **Laravel** and **PHP**.
 - 🎨 Design and implement custom **WordPress themes and plugins**.
 - 📱 Create fully responsive and mobile-friendly UIs using **Tailwind CSS** and **Bootstrap**.
