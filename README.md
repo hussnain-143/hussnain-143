@@ -97,18 +97,14 @@ I'm a dedicated Full-Stack Developer with extensive expertise in building dynami
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hussnain-143&theme=highcontrast&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
+
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hussnain-143&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussnain-143&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=hussnain-143&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=hussnain-143&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
